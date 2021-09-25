@@ -1,1 +1,1 @@
-# haz2@hw.github.io
+# haz2-hw.github.io
